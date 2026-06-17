@@ -1,592 +1,592 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour hassounds="0" apprev="21009" appversion="7.1.10" start="node6">
+<tour appversion="7.1.10" apprev="21009" start="node6" hassounds="0">
   <panorama id="node6">
-    <input levelingpitch="0.5" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-2" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-2" levelbiashidpi="1.000" width="1344" levelingpitch="0.5" height="1344" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="180">
-      <start projection="4" fov="118.01" pan="88.91" tilt="8.94"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="180" fovmode="2">
+      <start fov="118.01" projection="4" pan="88.91" tilt="8.94"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="12.97" tags="PhotoVKR" description="" title="Главный вход" source="" nodeid="node6" longitude="30.328372" datetime="5/18/2026 7:14 PM" latitude="59.857642" copyright="" heading="180"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-10.12" url="{node28}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="256" target="$fwd" distance3D="3656.29" description="" skinid="ht_node" fov="4.0099999999999998" pan="179.44" title="" use3D="1" distance="65.6069" customimageheight="256" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857642" longitude="30.328372" comment="" title="Главный вход" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:14 PM" description="" altitude="12.97" nodeid="node6" heading="180" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="65.6069" customimageheight="256" skinid="ht_node" title="" pan="179.4" customimagewidth="256" target="$fwd" distance3D="3656.29" tilt="-10.01" description="" use3D="1" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node28}" fov="4.0099999999999998">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="21.83" url="media/312.pdf" customimage="media/info-button-svgrepo-com.png" customimagewidth="298" target="" distance3D="4034.61" description="" skinid="ht_pdf" fov="4.2300000000000004" pan="-268.91" title="Описание" use3D="1" customimageheight="298" id="Point02">
-        <custompropertyvalue value="&lt;div class=&quot;ggmarkdown&quot;>&lt;h1>Чесме́нский дворе́ц — императорский путевой дворец, расположенный в&lt;/h1>&#xa;&lt;p>Санкт-Петербурге. Возведён по проекту архитектора Ю. М. Фельтена по заказу&#xa;императрицы Екатерины Второй в стиле неоготики. Памятник архитектуры. Вместе с&#xa;Чесменской церковью составлял некогда уникальный ансамбль, обращённый к бывшему&#xa;Царскосельскому тракту (теперь Московский проспект). Назван в честь победы&#xa;русского флота над турецким в Чесменском сражении 1770 года.&lt;/p>&#xa;&lt;div>" variablename="54"/>
+      <hotspot customimageheight="298" skinid="ht_info_popup" title="Описание" pan="-261.13" customimagewidth="298" target="" distance3D="4034.61" tilt="25.06" description="" use3D="1" customimage="media/info-button-svgrepo-com.png" id="ht_info_popup" url="" fov="4.2300000000000004">
+        <custompropertyvalue variablename="54" value="&lt;div class=&quot;ggmarkdown&quot;>&lt;h1>Чесме́нский дворе́ц — императорский путевой дворец, расположенный в&lt;/h1>&#xa;&lt;p>Санкт-Петербурге. Возведён по проекту архитектора Ю. М. Фельтена по заказу&#xa;императрицы Екатерины Второй в стиле неоготики. Памятник архитектуры. Вместе с&#xa;Чесменской церковью составлял некогда уникальный ансамбль, обращённый к бывшему&#xa;Царскосельскому тракту (теперь Московский проспект). Назван в честь победы&#xa;русского флота над турецким в Чесменском сражении 1770 года.&lt;/p>&#xa;&lt;div>"/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node28">
-    <input levelingpitch="0.29999999999999999" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-1.2" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-1.2" levelbiashidpi="1.000" width="1344" levelingpitch="0.29999999999999999" height="1344" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="247.5">
-      <start projection="4" fov="100" pan="-14.6651" tilt="-1.45396"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="247.5" fovmode="2">
+      <start fov="100" projection="4" pan="-14.6651" tilt="-1.45396"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="12.97" tags="PhotoVKR" description="" title="Коридор перед лестницей" source="" nodeid="node28" longitude="30.327200" datetime="5/18/2026 7:13 PM" latitude="59.857600" copyright="" heading="247.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-7.35" url="{node27}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="256" target="$fwd" distance3D="2997.71" description="" skinid="ht_node" fov="4.8899999999999997" pan="0.56" title="" use3D="1" distance="20.2591" customimageheight="256" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857600" longitude="30.327200" comment="" title="Коридор перед лестницей" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:13 PM" description="" altitude="12.97" nodeid="node28" heading="247.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="20.2591" customimageheight="256" skinid="ht_node" title="" pan="0.56" customimagewidth="256" target="$fwd" distance3D="2997.71" tilt="-7.35" description="" use3D="1" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node27}" fov="4.8899999999999997">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node27">
-    <input levelingpitch="5.2000000000000002" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0.10000000000000001" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="0.10000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="5.2000000000000002" height="1344" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="247.5">
-      <start projection="4" fov="126.768" pan="-4.51102" tilt="12.6081"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="247.5" fovmode="2">
+      <start fov="126.768" projection="4" pan="-4.51102" tilt="12.6081"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.56" tags="PhotoVKR" description="" title="Выход к лестнице" source="" nodeid="node27" longitude="30.326875" datetime="5/18/2026 7:13 PM" latitude="59.857519" copyright="" heading="247.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-12.42" url="{node21}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="256" target="" distance3D="2359.64" description="" skinid="ht_node" fov="6.21" pan="0.02" title="" use3D="1" distance="27.7981" customimageheight="256" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857519" longitude="30.326875" comment="" title="Выход к лестнице" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:13 PM" description="" altitude="13.56" nodeid="node27" heading="247.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="27.7981" customimageheight="256" skinid="ht_node" title="" pan="-0.07" customimagewidth="256" target="" distance3D="2359.64" tilt="-12.43" description="" use3D="1" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node21}" fov="6.21">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="36" url="media/Plan.pdf" customimage="media/info-button-svgrepo-com.png" customimagewidth="32" target="" distance3D="388.226" description="" skinid="ht_pdf" fov="4.7199999999999998" pan="-316.66" title="" use3D="1" customimageheight="32" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot customimageheight="32" skinid="ht_pdf" title="" pan="-316.66" customimagewidth="32" target="" distance3D="388.226" tilt="36" description="" use3D="1" customimage="media/info-button-svgrepo-com.png" id="Point02" url="media/Plan.pdf" fov="4.7199999999999998">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node21">
-    <input levelingpitch="4" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-1" levelbiashidpi="1.000" width="1344" levelingpitch="4" height="1344" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="202.5">
-      <start projection="4" fov="126.768" pan="174.201" tilt="18.3082"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="202.5" fovmode="2">
+      <start fov="126.768" projection="4" pan="174.201" tilt="18.3082"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="11.71" tags="PhotoVKR" description="" title="Столовая" source="" nodeid="node21" longitude="30.327333" datetime="5/18/2026 7:08 PM" latitude="59.857617" copyright="" heading="202.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-7.37" url="{node20}" customimage="media/right-arrow-svgrepo-com.png" customimagewidth="86" target="" distance3D="491.492" description="" skinid="ht_node" fov="10" pan="-111.14" title="" use3D="0" distance="43.8338" customimageheight="86" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857617" longitude="30.327333" comment="" title="Столовая" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:08 PM" description="" altitude="11.71" nodeid="node21" heading="202.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="43.8338" customimageheight="86" skinid="ht_node" title="" pan="-111.14" customimagewidth="86" target="" distance3D="491.492" tilt="-7.37" description="" use3D="0" customimage="media/right-arrow-svgrepo-com.png" id="Point01" url="{node20}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="-16.88" url="{node22}" customimage="media/right-arrow-svgrepo-com1.png" customimagewidth="89" target="" distance3D="508.637" description="" skinid="ht_node" fov="10" pan="-184.58" title="" use3D="0" distance="20.4257" customimageheight="89" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot distance="20.4257" customimageheight="89" skinid="ht_node" title="" pan="-183.92" customimagewidth="89" target="" distance3D="508.637" tilt="-16.69" description="" use3D="0" customimage="media/right-arrow-svgrepo-com1.png" id="Point02" url="{node22}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="14.57" url="media/document.pdf" customimage="media/info-button-svgrepo-com.png" customimagewidth="256" target="" distance3D="3763.84" description="" skinid="ht_pdf" fov="3.8955099999999998" pan="-16.85" title="" use3D="1" customimageheight="256" id="Point03">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot customimageheight="256" skinid="ht_pdf" title="" pan="-16.85" customimagewidth="256" target="" distance3D="3763.84" tilt="14.57" description="" use3D="1" customimage="media/info-button-svgrepo-com.png" id="Point03" url="media/document.pdf" fov="3.8955099999999998">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node20">
-    <input levelingpitch="2.5" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0.20000000000000001" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="0.20000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="2.5" height="1344" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="202.5">
-      <start projection="4" fov="100" pan="40.5554" tilt="11.2991"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="202.5" fovmode="2">
+      <start fov="100" projection="4" pan="40.5554" tilt="11.2991"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="11.71" tags="PhotoVKR" description="" title="Лестница" source="" nodeid="node20" longitude="30.326603" datetime="5/18/2026 7:07 PM" latitude="59.857472" copyright="" heading="202.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="3.95" url="{node14}" customimage="media/right-arrow-svgrepo-com.png" customimagewidth="95" target="" distance3D="542.927" description="" skinid="ht_node" fov="10" pan="-291.07" title="" use3D="0" distance="24.5759" customimageheight="95" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857472" longitude="30.326603" comment="" title="Лестница" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:07 PM" description="" altitude="11.71" nodeid="node20" heading="202.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="24.5759" customimageheight="95" skinid="ht_node" title="" pan="-291.07" customimagewidth="95" target="" distance3D="542.927" tilt="3.95" description="" use3D="0" customimage="media/right-arrow-svgrepo-com.png" id="Point01" url="{node14}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="81.27" url="media/  .pdf" customimage="media/info-button-svgrepo-com.png" customimagewidth="29" target="" distance3D="387.133" description="" skinid="ht_pdf" fov="4.29" pan="-10.41" title="" use3D="1" customimageheight="29" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot customimageheight="29" skinid="ht_pdf" title="" pan="-10.41" customimagewidth="29" target="" distance3D="387.133" tilt="81.27" description="" use3D="1" customimage="media/info-button-svgrepo-com.png" id="Point02" url="media/  .pdf" fov="4.29">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node14">
-    <input levelingpitch="2.1000000000000001" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.59999999999999998" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-0.59999999999999998" levelbiashidpi="1.000" width="1344" levelingpitch="2.1000000000000001" height="1344" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="180">
-      <start projection="4" fov="100" pan="169.282" tilt="-4.62197"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" projection="4" pan="169.282" tilt="-4.62197"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="14.07" tags="PhotoVKR" description="" title="Лестница второй этаж" source="" nodeid="node14" longitude="30.326472" datetime="5/18/2026 7:02 PM" latitude="59.857683" copyright="" heading="180"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-15.66" url="{node19}" customimage="media/right-arrow-svgrepo-com2.png" customimagewidth="98" target="" distance3D="560.073" description="" skinid="ht_node" fov="10" pan="-187.21" title="" use3D="0" distance="20.0409" customimageheight="98" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857683" longitude="30.326472" comment="" title="Лестница второй этаж" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:02 PM" description="" altitude="14.07" nodeid="node14" heading="180" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="20.0409" customimageheight="98" skinid="ht_node" title="" pan="-187.21" customimagewidth="98" target="" distance3D="560.073" tilt="-15.66" description="" use3D="0" customimage="media/right-arrow-svgrepo-com2.png" id="Point01" url="{node19}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="4.56" url="{node13}" customimage="media/right-arrow-svgrepo-com.png" customimagewidth="78" target="" distance3D="445.772" description="" skinid="ht_node" fov="10" pan="-318.88" title="" use3D="0" distance="52.8577" customimageheight="78" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot distance="52.8577" customimageheight="78" skinid="ht_node" title="" pan="-318.88" customimagewidth="78" target="" distance3D="445.772" tilt="4.56" description="" use3D="0" customimage="media/right-arrow-svgrepo-com.png" id="Point02" url="{node13}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="81.63" url="media/  .pdf" customimage="media/info-button-svgrepo-com.png" customimagewidth="256" target="" distance3D="3759.5" description="" skinid="ht_pdf" fov="3.8999999999999999" pan="-14.67" title="" use3D="1" customimageheight="256" id="Point03">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot customimageheight="256" skinid="ht_pdf" title="" pan="-14.67" customimagewidth="256" target="" distance3D="3759.5" tilt="81.63" description="" use3D="1" customimage="media/info-button-svgrepo-com.png" id="Point03" url="media/  .pdf" fov="3.8999999999999999">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node19">
-    <input levelingpitch="4.0999999999999996" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-1.3999999999999999" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-1.3999999999999999" levelbiashidpi="1.000" width="1344" levelingpitch="4.0999999999999996" height="1344" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="202.5">
-      <start projection="4" fov="100" pan="170.727" tilt="-1.43452"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="202.5" fovmode="2">
+      <start fov="100" projection="4" pan="170.727" tilt="-1.43452"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="17.27" tags="PhotoVKR" description="" title="Проход в коридор на втором этаже " source="" nodeid="node19" longitude="30.326750" datetime="5/18/2026 7:06 PM" latitude="59.857569" copyright="" heading="202.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-17.24" url="{node14}" target="" description="" skinid="ht_node" pan="-5.05" title="" distance="20.0409" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857569" longitude="30.326750" comment="" title="Проход в коридор на втором этаже " source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:06 PM" description="" altitude="17.27" nodeid="node19" heading="202.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="20.0409" skinid="ht_node" title="" pan="-5.05" target="" tilt="-17.24" description="" id="Point01" url="{node14}">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="-5.9" url="{node18}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="65" target="" distance3D="371.477" description="" skinid="ht_node" fov="10" pan="-187.42" title="" use3D="0" distance="4.7155" customimageheight="65" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot distance="4.7155" customimageheight="65" skinid="ht_node" title="" pan="-187.42" customimagewidth="65" target="" distance3D="371.477" tilt="-5.9" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point02" url="{node18}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node18">
-    <input levelingpitch="3.6000000000000001" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0.90000000000000002" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="0.90000000000000002" levelbiashidpi="1.000" width="1344" levelingpitch="3.6000000000000001" height="1344" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="202.5">
-      <start projection="4" fov="100" pan="175.26" tilt="-1.54924"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="202.5" fovmode="2">
+      <start fov="100" projection="4" pan="175.26" tilt="-1.54924"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.41" tags="PhotoVKR" description="" title="Коридор" source="" nodeid="node18" longitude="30.326669" datetime="5/18/2026 7:06 PM" latitude="59.857581" copyright="" heading="202.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-9.46" url="{node17}" customimage="media/right-arrow-svgrepo-com2.png" customimagewidth="55" target="" distance3D="314.326" description="" skinid="ht_node" fov="10" pan="-186.18" title="" use3D="0" distance="17.2613" customimageheight="55" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857581" longitude="30.326669" comment="" title="Коридор" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:06 PM" description="" altitude="13.41" nodeid="node18" heading="202.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="17.2613" customimageheight="55" skinid="ht_node" title="" pan="-186.18" customimagewidth="55" target="" distance3D="314.326" tilt="-9.46" description="" use3D="0" customimage="media/right-arrow-svgrepo-com2.png" id="Point01" url="{node17}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node17">
-    <input levelingpitch="5" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0.20000000000000001" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="0.20000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="5" height="1344" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="180">
-      <start projection="4" fov="100" pan="174.613" tilt="-1.34298"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" projection="4" pan="174.613" tilt="-1.34298"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.42" tags="PhotoVKR" description="" title="Коридор" source="" nodeid="node17" longitude="30.326686" datetime="5/18/2026 7:05 PM" latitude="59.857736" copyright="" heading="180"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-10.16" url="{node16}" customimage="media/right-arrow-svgrepo-com2.png" customimagewidth="50" target="" distance3D="285.751" description="" skinid="ht_node" fov="10" pan="-186.09" title="" use3D="0" distance="21.9107" customimageheight="50" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857736" longitude="30.326686" comment="" title="Коридор" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:05 PM" description="" altitude="13.42" nodeid="node17" heading="180" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="21.9107" customimageheight="50" skinid="ht_node" title="" pan="-186.09" customimagewidth="50" target="" distance3D="285.751" tilt="-10.16" description="" use3D="0" customimage="media/right-arrow-svgrepo-com2.png" id="Point01" url="{node16}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node16">
-    <input levelingpitch="2.5" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.10000000000000001" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-0.10000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="2.5" height="1344" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="180">
-      <start projection="4" fov="100" pan="171.525" tilt="-4.23668"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" projection="4" pan="171.525" tilt="-4.23668"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.52" tags="PhotoVKR" description="" title="" source="" nodeid="node16" longitude="30.326797" datetime="5/18/2026 7:04 PM" latitude="59.857547" copyright="" heading="180"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-7.76" url="{node15}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="37" target="" distance3D="211.456" description="" skinid="ht_node" fov="10" pan="-187.39" title="" use3D="0" distance="41.4278" customimageheight="37" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857547" longitude="30.326797" comment="" title="" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:04 PM" description="" altitude="13.52" nodeid="node16" heading="180" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="41.4278" customimageheight="37" skinid="ht_node" title="" pan="-187.39" customimagewidth="37" target="" distance3D="211.456" tilt="-7.76" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node15}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node15">
-    <input levelingpitch="4.9000000000000004" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0.80000000000000004" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="0.80000000000000004" levelbiashidpi="1.000" width="1344" levelingpitch="4.9000000000000004" height="1344" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="180">
-      <start projection="4" fov="100" pan="174.55" tilt="-3.89047"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" projection="4" pan="174.55" tilt="-3.89047"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.40" tags="PhotoVKR" description="" title="" source="" nodeid="node15" longitude="30.326756" datetime="5/18/2026 7:03 PM" latitude="59.857919" copyright="" heading="180"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-3.65" url="{node14}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="28" target="" distance3D="160.021" description="" skinid="ht_node" fov="10" pan="-10.37" title="" use3D="0" distance="30.6611" customimageheight="28" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857919" longitude="30.326756" comment="" title="" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:03 PM" description="" altitude="13.40" nodeid="node15" heading="180" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="30.6611" customimageheight="28" skinid="ht_node" title="" pan="-10.37" customimagewidth="28" target="" distance3D="160.021" tilt="-3.65" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node14}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node13">
-    <input levelingpitch="4.0999999999999996" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0.20000000000000001" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="0.20000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="4.0999999999999996" height="1344" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="225">
-      <start projection="4" fov="100" pan="36.4008" tilt="23.218"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="225" fovmode="2">
+      <start fov="100" projection="4" pan="36.4008" tilt="23.218"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.49" tags="PhotoVKR" description="" title="" source="" nodeid="node13" longitude="30.325606" datetime="5/18/2026 7:01 PM" latitude="59.857875" copyright="" heading="225"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-1.75" url="{node11}" customimage="media/right-arrow-svgrepo-com.png" customimagewidth="70" target="" distance3D="400.052" description="" skinid="ht_node" fov="10" pan="-291.95" title="" use3D="0" distance="104.239" customimageheight="70" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857875" longitude="30.325606" comment="" title="" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:01 PM" description="" altitude="13.49" nodeid="node13" heading="225" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="104.239" customimageheight="70" skinid="ht_node" title="" pan="-291.95" customimagewidth="70" target="" distance3D="400.052" tilt="-1.75" description="" use3D="0" customimage="media/right-arrow-svgrepo-com.png" id="Point01" url="{node11}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="81.47" url="media/  .pdf" customimage="media/info-button-svgrepo-com.png" customimagewidth="256" target="" distance3D="3759.5" description="" skinid="ht_pdf" fov="3.8999999999999999" pan="-3.85" title="" use3D="1" customimageheight="256" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot customimageheight="256" skinid="ht_pdf" title="" pan="-3.85" customimagewidth="256" target="" distance3D="3759.5" tilt="81.47" description="" use3D="1" customimage="media/info-button-svgrepo-com.png" id="Point02" url="media/  .pdf" fov="3.8999999999999999">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node11">
-    <input levelingpitch="5.0999999999999996" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.10000000000000001" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-0.10000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="5.0999999999999996" height="1344" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="270">
-      <start projection="4" fov="100" pan="174.407" tilt="-3.638"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="270" fovmode="2">
+      <start fov="100" projection="4" pan="174.407" tilt="-3.638"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.33" tags="PhotoVKR" description="" title="Лестница 3-тий этаж " source="" nodeid="node11" longitude="30.327206" datetime="5/18/2026 6:57 PM" latitude="59.857392" copyright="" heading="270"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-7.77" url="{node10}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="38" target="" distance3D="217.171" description="" skinid="ht_node" fov="10" pan="-182.5" title="" use3D="0" distance="7.29138" customimageheight="38" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857392" longitude="30.327206" comment="" title="Лестница 3-тий этаж " source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 6:57 PM" description="" altitude="13.33" nodeid="node11" heading="270" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="7.29138" customimageheight="38" skinid="ht_node" title="" pan="-182.5" customimagewidth="38" target="" distance3D="217.171" tilt="-7.77" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node10}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="80.75" url="media/  .pdf" customimage="media/info-button-svgrepo-com.png" customimagewidth="256" target="" distance3D="3610.79" description="" skinid="ht_pdf" fov="4.0604899999999997" pan="0.18" title="" use3D="1" customimageheight="256" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot customimageheight="256" skinid="ht_pdf" title="" pan="0.18" customimagewidth="256" target="" distance3D="3610.79" tilt="80.75" description="" use3D="1" customimage="media/info-button-svgrepo-com.png" id="Point02" url="media/  .pdf" fov="4.0604899999999997">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node10">
-    <input levelingpitch="4.9000000000000004" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0.20000000000000001" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="0.20000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="4.9000000000000004" height="1344" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="247.5">
-      <start projection="4" fov="100" pan="177.319" tilt="-8.42005"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="247.5" fovmode="2">
+      <start fov="100" projection="4" pan="177.319" tilt="-8.42005"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.20" tags="PhotoVKR" description="" title="Читальный зал 1" source="" nodeid="node10" longitude="30.327325" datetime="5/18/2026 6:56 PM" latitude="59.857419" copyright="" heading="247.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-6.33" url="{node9}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="36" target="" distance3D="205.741" description="" skinid="ht_node" fov="10" pan="-184.54" title="" use3D="0" distance="3.03919" customimageheight="36" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857419" longitude="30.327325" comment="" title="Читальный зал 1" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 6:56 PM" description="" altitude="13.20" nodeid="node10" heading="247.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="3.03919" customimageheight="36" skinid="ht_node" title="" pan="-184.54" customimagewidth="36" target="" distance3D="205.741" tilt="-6.33" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node9}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node9">
-    <input levelingpitch="3.6000000000000001" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.10000000000000001" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-0.10000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="3.6000000000000001" height="1344" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="247.5">
-      <start projection="4" fov="100" pan="168.73" tilt="-8.95837"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="247.5" fovmode="2">
+      <start fov="100" projection="4" pan="168.73" tilt="-8.95837"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.31" tags="PhotoVKR" description="" title="Читальный зал 2 " source="" nodeid="node9" longitude="30.327347" datetime="5/18/2026 6:55 PM" latitude="59.857394" copyright="" heading="247.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-7.98" url="{node8}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="37" target="" distance3D="211.456" description="" skinid="ht_node" fov="10" pan="-190.31" title="" use3D="0" distance="5.82297" customimageheight="37" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857394" longitude="30.327347" comment="" title="Читальный зал 2 " source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 6:55 PM" description="" altitude="13.31" nodeid="node9" heading="247.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="5.82297" customimageheight="37" skinid="ht_node" title="" pan="-190.31" customimagewidth="37" target="" distance3D="211.456" tilt="-7.98" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node8}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node8">
-    <input levelingpitch="4.7000000000000002" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-1.5" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-1.5" levelbiashidpi="1.000" width="1344" levelingpitch="4.7000000000000002" height="1344" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="247.5">
-      <start projection="4" fov="100" pan="-176.327" tilt="-6.54472"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="247.5" fovmode="2">
+      <start fov="100" projection="4" pan="-176.327" tilt="-6.54472"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.34" tags="PhotoVKR" description="" title="Бывшая домовая церковь" source="" nodeid="node8" longitude="30.327378" datetime="5/18/2026 7:18 PM" latitude="59.857344" copyright="" heading="247.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-6.9" url="{node11}" customimage="media/turn-right-arrow-svgrepo-com3.png" customimagewidth="35" target="" distance3D="200.026" description="" skinid="ht_node" fov="10" pan="-342.52" title="" use3D="0" distance="10.9874" customimageheight="35" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857344" longitude="30.327378" comment="" title="Бывшая домовая церковь" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:18 PM" description="" altitude="13.34" nodeid="node8" heading="247.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="10.9874" customimageheight="35" skinid="ht_node" title="" pan="-342.52" customimagewidth="35" target="" distance3D="200.026" tilt="-6.9" description="" use3D="0" customimage="media/turn-right-arrow-svgrepo-com3.png" id="Point01" url="{node11}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="-8.3" url="media/ .pdf" customimage="media/info-button-svgrepo-com.png" customimagewidth="74" target="" distance3D="1136.3" description="" skinid="ht_pdf" fov="3.73" pan="-158.15" title="" use3D="1" customimageheight="74" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot customimageheight="74" skinid="ht_pdf" title="" pan="-158.15" customimagewidth="74" target="" distance3D="1136.3" tilt="-8.3" description="" use3D="1" customimage="media/info-button-svgrepo-com.png" id="Point02" url="media/ .pdf" fov="3.73">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node22">
-    <input levelingpitch="2.1000000000000001" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.10000000000000001" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-0.10000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="2.1000000000000001" height="1344" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="180">
-      <start projection="4" fov="126.768" pan="-176.628" tilt="8.09418"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="180" fovmode="2">
+      <start fov="126.768" projection="4" pan="-176.628" tilt="8.09418"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.43" tags="PhotoVKR" description="" title="Лестница под куполом" source="" nodeid="node22" longitude="30.326981" datetime="5/18/2026 7:08 PM" latitude="59.857667" copyright="" heading="180"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-11.16" url="{node21}" target="" description="" skinid="ht_node" pan="-18.19" title="" distance="20.4257" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857667" longitude="30.326981" comment="" title="Лестница под куполом" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:08 PM" description="" altitude="13.43" nodeid="node22" heading="180" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="20.4257" skinid="ht_node" title="" pan="-18.19" target="" tilt="-11.16" description="" id="Point01" url="{node21}">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot tilt="-5.86" url="{node23}" customimage="media/right-arrow-svgrepo-com2.png" customimagewidth="50" target="" distance3D="285.751" description="" skinid="ht_node" fov="10" pan="-177.8" title="" use3D="0" distance="10.8343" customimageheight="50" id="Point02">
-        <custompropertyvalue value="" variablename="54"/>
+      <hotspot distance="10.8343" customimageheight="50" skinid="ht_node" title="" pan="-177.8" customimagewidth="50" target="" distance3D="285.751" tilt="-5.86" description="" use3D="0" customimage="media/right-arrow-svgrepo-com2.png" id="Point02" url="{node23}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node23">
-    <input levelingpitch="2.2999999999999998" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0.20000000000000001" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="0.20000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="2.2999999999999998" height="1344" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="202.5">
-      <start projection="4" fov="100" pan="174.966" tilt="1.80364"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="202.5" fovmode="2">
+      <start fov="100" projection="4" pan="174.966" tilt="1.80364"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="14.80" tags="PhotoVKR" description="" title="" source="" nodeid="node23" longitude="30.326844" datetime="5/18/2026 7:09 PM" latitude="59.857736" copyright="" heading="202.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-7.66" url="{node24}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="58" target="" distance3D="331.472" description="" skinid="ht_node" fov="10" pan="-182.03" title="" use3D="0" distance="30.649" customimageheight="58" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857736" longitude="30.326844" comment="" title="" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:09 PM" description="" altitude="14.80" nodeid="node23" heading="202.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="30.649" customimageheight="58" skinid="ht_node" title="" pan="-182.03" customimagewidth="58" target="" distance3D="331.472" tilt="-7.66" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node24}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node24">
-    <input levelingpitch="4.9000000000000004" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-1.2" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-1.2" levelbiashidpi="1.000" width="1344" levelingpitch="4.9000000000000004" height="1344" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="247.5">
-      <start projection="4" fov="100" pan="-8.17265" tilt="2.50891"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="247.5" fovmode="2">
+      <start fov="100" projection="4" pan="-8.17265" tilt="2.50891"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.30" tags="PhotoVKR" description="" title="" source="" nodeid="node24" longitude="30.326328" datetime="5/18/2026 7:10 PM" latitude="59.857642" copyright="" heading="247.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-5.23" url="{node25}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="41" target="" distance3D="234.316" description="" skinid="ht_node" fov="10" pan="-7.23" title="" use3D="0" distance="12.6025" customimageheight="41" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857642" longitude="30.326328" comment="" title="" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:10 PM" description="" altitude="13.30" nodeid="node24" heading="247.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="12.6025" customimageheight="41" skinid="ht_node" title="" pan="-7.23" customimagewidth="41" target="" distance3D="234.316" tilt="-5.23" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node25}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node25">
-    <input levelingpitch="2.3999999999999999" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.20000000000000001" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-0.20000000000000001" levelbiashidpi="1.000" width="1344" levelingpitch="2.3999999999999999" height="1344" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="247.5">
-      <start projection="4" fov="100" pan="-1.79801" tilt="4.87738"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="247.5" fovmode="2">
+      <start fov="100" projection="4" pan="-1.79801" tilt="4.87738"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.54" tags="PhotoVKR" description="" title="" source="" nodeid="node25" longitude="30.326536" datetime="5/18/2026 7:11 PM" latitude="59.857686" copyright="" heading="247.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-4.54" url="{node26}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="32" target="" distance3D="182.881" description="" skinid="ht_node" fov="10" pan="-2.26" title="" use3D="0" distance="17.6242" customimageheight="32" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857686" longitude="30.326536" comment="" title="" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:11 PM" description="" altitude="13.54" nodeid="node25" heading="247.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="17.6242" customimageheight="32" skinid="ht_node" title="" pan="-2.26" customimagewidth="32" target="" distance3D="182.881" tilt="-4.54" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node26}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <panorama id="node26">
-    <input levelingpitch="0.59999999999999998" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-1.5" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" height="1344" width="1344">
-      <level predecode="0" preload="0" height="1344" width="1344"/>
-      <level predecode="0" preload="0" height="672" width="672"/>
-      <level predecode="1" preload="1" height="336" width="336"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelbias="0.400" levelingroll="-1.5" levelbiashidpi="1.000" width="1344" levelingpitch="0.59999999999999998" height="1344" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="247.5">
-      <start projection="4" fov="100" pan="-4.61325" tilt="-0.745928"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-40"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    <view pannorth="247.5" fovmode="2">
+      <start fov="100" projection="4" pan="-4.61325" tilt="-0.745928"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-40"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata comment="" info="" author="" customnodeid="" altitude="13.53" tags="PhotoVKR" description="" title="" source="" nodeid="node26" longitude="30.326511" datetime="5/18/2026 7:12 PM" latitude="59.857844" copyright="" heading="247.5"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label borderradius="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" enabled="1" textcolor="0x000000" border="1" height="20" wordwrap="1" width="180" borderalpha="1"/>
-      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-5.52" url="{node22}" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="24" target="" distance3D="137.161" description="" skinid="ht_node" fov="10" pan="-180.12" title="" use3D="0" distance="32.8034" customimageheight="24" id="Point01">
-        <custompropertyvalue value="" variablename="54"/>
+    <userdata latitude="59.857844" longitude="30.326511" comment="" title="" source="" info="" tags="PhotoVKR" author="" customnodeid="" datetime="5/18/2026 7:12 PM" description="" altitude="13.53" nodeid="node26" heading="247.5" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label backgroundcolor="0xffffff" enabled="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" textalpha="1" wordwrap="1" height="20" textcolor="0x000000" background="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot distance="32.8034" customimageheight="24" skinid="ht_node" title="" pan="-180.12" customimagewidth="24" target="" distance3D="137.161" tilt="-5.52" description="" use3D="0" customimage="media/navigation-arrow-svgrepo-com.png" id="Point01" url="{node22}" fov="10">
+        <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
     <media/>
-    <transition blendtime="1" blendcolor="0x000000" zoomout="0" zoomin="0" zoomafterinfov="140" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomfov="40" zoomoutpause="1" enabled="1" zoomspeed="2" softedge="0"/>
-    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control speedwheel="1" simulatemass="1" rubberband="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="0" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+    <transition zoomin="0" enabled="1" zoomspeed="2" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextprojections="0" zoomcentercursor="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertcontrol="1" contextvr="1" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0"/>
   </panorama>
   <masternode>
-    <userdata comment="" tags="" description="" title="" author="" copyright=""/>
+    <userdata description="" comment="" title="" tags="" author="" copyright=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <customproperty propertytype="1" defaultvalue="" variablename="54" variabletype="0"/>
+  <customproperty variablename="54" variabletype="0" propertytype="1" defaultvalue=""/>
 </tour>
