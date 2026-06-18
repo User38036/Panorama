@@ -20,7 +20,7 @@
       <hotspot url="{node28}" skinid="ht_node" id="Point01" distance="65.6069" tilt="-10.01" distance3D="3656.29" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="256" description="" use3D="1" fov="4.0099999999999998" customimageheight="256" target="$fwd" title="" pan="179.4">
         <custompropertyvalue variablename="54" value=""/>
       </hotspot>
-      <hotspot url="" skinid="ht_info_popup" id="ht_info_popup" tilt="25.06" distance3D="4034.61" customimage="media/info-button-svgrepo-com.png" customimagewidth="298" description="" use3D="1" fov="4.2300000000000004" customimageheight="298" target="" title="Описание" pan="-261.13">
+      <hotspot url="" skinid="ht_info_popup" id="info1" tilt="25.18" distance3D="4034.61" customimage="media/info-button-svgrepo-com.png" customimagewidth="298" description="" use3D="1" fov="4.2300000000000004" customimageheight="298" target="" title="" pan="-261.13">
         <custompropertyvalue variablename="54" value="&lt;div class=&quot;ggmarkdown&quot;>&lt;h1>Чесме́нский дворе́ц — императорский путевой дворец, расположенный в&lt;/h1>&#xa;&lt;p>Санкт-Петербурге. Возведён по проекту архитектора Ю. М. Фельтена по заказу&#xa;императрицы Екатерины Второй в стиле неоготики. Памятник архитектуры. Вместе с&#xa;Чесменской церковью составлял некогда уникальный ансамбль, обращённый к бывшему&#xa;Царскосельскому тракту (теперь Московский проспект). Назван в честь победы&#xa;русского флота над турецким в Чесменском сражении 1770 года.&lt;/p>&#xa;&lt;div>"/>
       </hotspot>
     </hotspots>
@@ -133,7 +133,7 @@
     <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
       <label textcolor="0x000000" width="180" borderradius="1" height="20" background="1" borderalpha="1" backgroundalpha="1" enabled="1" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
       <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot url="{node14}" skinid="ht_node" id="Point01" distance="24.5759" tilt="3.95" distance3D="542.927" customimage="media/right-arrow-svgrepo-com.png" customimagewidth="95" description="" use3D="0" fov="10" customimageheight="95" target="" title="" pan="-291.07">
+      <hotspot url="{node14}" skinid="ht_node" id="Point01" distance="24.5759" tilt="5.13" distance3D="542.927" customimage="media/right-arrow-svgrepo-com.png" customimagewidth="95" description="" use3D="0" fov="10" customimageheight="95" target="" title="" pan="-307.34">
         <custompropertyvalue variablename="54" value=""/>
       </hotspot>
       <hotspot url="media/  .pdf" skinid="ht_pdf" id="Point02" tilt="81.27" distance3D="387.133" customimage="media/info-button-svgrepo-com.png" customimagewidth="29" description="" use3D="1" fov="4.29" customimageheight="29" target="" title="" pan="-10.41">
@@ -412,6 +412,21 @@
       <label textcolor="0x000000" width="180" borderradius="1" height="20" background="1" borderalpha="1" backgroundalpha="1" enabled="1" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
       <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
       <hotspot url="{node8}" skinid="ht_node" id="Point01" distance="5.82297" tilt="-7.98" distance3D="211.456" customimage="media/navigation-arrow-svgrepo-com.png" customimagewidth="37" description="" use3D="0" fov="10" customimageheight="37" target="" title="" pan="-190.31">
+        <custompropertyvalue variablename="54" value=""/>
+      </hotspot>
+      <hotspot url="" skinid="ht_info_popup" id="info_2" description="" tilt="16.83" target="" title="Информационные стенды" pan="-88.63">
+        <custompropertyvalue variablename="54" value=""/>
+      </hotspot>
+      <hotspot url="" skinid="ht_info_reading_3" id="info_3" description="" tilt="12.49" target="" title="Зона читального зала" pan="-111">
+        <custompropertyvalue variablename="54" value=""/>
+      </hotspot>
+      <hotspot url="" skinid="ht_info_popup" id="info_4" description="" tilt="14" target="" title="Схема здания" pan="-130.57">
+        <custompropertyvalue variablename="54" value=""/>
+      </hotspot>
+      <hotspot url="" skinid="ht_info_reading_2" id="info_1" description="" tilt="13.62" target="" title="Галерея история" pan="-59.9">
+        <custompropertyvalue variablename="54" value=""/>
+      </hotspot>
+      <hotspot url="" skinid="ht_info_popup" id="info_5" description="" tilt="-4.98" target="" title="" pan="-84.1">
         <custompropertyvalue variablename="54" value=""/>
       </hotspot>
     </hotspots>
